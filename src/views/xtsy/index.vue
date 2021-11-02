@@ -3,7 +3,7 @@
     <div class="con_right">
       <div class="con_title">
         <div class="stsy">
-          <span>系统首页</span>
+          <span>我的</span>
         </div>
       </div>
       <div class="con_con">

@@ -25,6 +25,11 @@ const routes = [
       component: () => import('../views/xtsy/index.vue'),
      },
      {
+      path: 'sy',
+      name: 'sy',
+      component: () => import('../views/sy/sy.vue'),
+     },
+     {
       path: 'jbxx',
       name: 'jbxx',
       component: () => import('../views/jbxx/index.vue'),
